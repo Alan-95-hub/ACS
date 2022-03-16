@@ -1,0 +1,2739 @@
+Container contains 512 elements.
+1. CIRCLE:
+	Center point: 532 682
+	Radius: 0
+	Color: DARK_BLUE
+	Square = 0
+2. CIRCLE:
+	Center point: 420 317
+	Radius: 0
+	Color: ORANGE
+	Square = 0
+3. CIRCLE:
+	Center point: 591 388
+	Radius: 1
+	Color: DARK_BLUE
+	Square = 3.14159
+4. CIRCLE:
+	Center point: 490 605
+	Radius: 2
+	Color: BLUE
+	Square = 12.5664
+5. CIRCLE:
+	Center point: 340 207
+	Radius: 2
+	Color: GREEN
+	Square = 12.5664
+6. CIRCLE:
+	Center point: 821 820
+	Radius: 2
+	Color: PURPLE
+	Square = 12.5664
+7. CIRCLE:
+	Center point: 987 983
+	Radius: 2
+	Color: YELLOW
+	Square = 12.5664
+8. CIRCLE:
+	Center point: 375 609
+	Radius: 3
+	Color: DARK_BLUE
+	Square = 28.2743
+9. CIRCLE:
+	Center point: 398 640
+	Radius: 4
+	Color: YELLOW
+	Square = 50.2655
+10. CIRCLE:
+	Center point: 790 344
+	Radius: 5
+	Color: PURPLE
+	Square = 78.5398
+11. CIRCLE:
+	Center point: 247 903
+	Radius: 6
+	Color: ORANGE
+	Square = 113.097
+12. CIRCLE:
+	Center point: 469 696
+	Radius: 6
+	Color: GREEN
+	Square = 113.097
+13. CIRCLE:
+	Center point: 19 4
+	Radius: 7
+	Color: RED
+	Square = 153.938
+14. CIRCLE:
+	Center point: 902 49
+	Radius: 7
+	Color: YELLOW
+	Square = 153.938
+15. RECTANGLE:
+	Top left point: 429 950
+	Bottom right point: 437 972
+	Color: ORANGE
+	Square = 176
+16. CIRCLE:
+	Center point: 507 751
+	Radius: 8
+	Color: GREEN
+	Square = 201.062
+17. CIRCLE:
+	Center point: 285 772
+	Radius: 8
+	Color: YELLOW
+	Square = 201.062
+18. RECTANGLE:
+	Top left point: 911 382
+	Bottom right point: 910 127
+	Color: GREEN
+	Square = 255
+19. CIRCLE:
+	Center point: 324 985
+	Radius: 10
+	Color: GREEN
+	Square = 314.159
+20. CIRCLE:
+	Center point: 744 770
+	Radius: 10
+	Color: DARK_BLUE
+	Square = 314.159
+21. CIRCLE:
+	Center point: 53 676
+	Radius: 10
+	Color: BLUE
+	Square = 314.159
+22. CIRCLE:
+	Center point: 545 388
+	Radius: 12
+	Color: RED
+	Square = 452.389
+23. CIRCLE:
+	Center point: 589 962
+	Radius: 12
+	Color: ORANGE
+	Square = 452.389
+24. RECTANGLE:
+	Top left point: 546 402
+	Bottom right point: 522 382
+	Color: RED
+	Square = 480
+25. RECTANGLE:
+	Top left point: 155 623
+	Bottom right point: 151 751
+	Color: DARK_BLUE
+	Square = 512
+26. CIRCLE:
+	Center point: 13 326
+	Radius: 13
+	Color: GREEN
+	Square = 530.929
+27. CIRCLE:
+	Center point: 567 131
+	Radius: 13
+	Color: DARK_BLUE
+	Square = 530.929
+28. RECTANGLE:
+	Top left point: 948 787
+	Bottom right point: 981 804
+	Color: DARK_BLUE
+	Square = 561
+29. CIRCLE:
+	Center point: 378 619
+	Radius: 14
+	Color: BLUE
+	Square = 615.752
+30. CIRCLE:
+	Center point: 376 66
+	Radius: 14
+	Color: ORANGE
+	Square = 615.752
+31. CIRCLE:
+	Center point: 795 320
+	Radius: 15
+	Color: DARK_BLUE
+	Square = 706.858
+32. CIRCLE:
+	Center point: 157 484
+	Radius: 15
+	Color: BLUE
+	Square = 706.858
+33. CIRCLE:
+	Center point: 537 717
+	Radius: 16
+	Color: BLUE
+	Square = 804.248
+34. TRIANGLE:
+	point 1: 45 964
+	point 2: 213 701
+	point 3: 358 464
+	Color: GREEN
+	Square = 840.5
+35. CIRCLE:
+	Center point: 797 973
+	Radius: 17
+	Color: YELLOW
+	Square = 907.92
+36. RECTANGLE:
+	Top left point: 995 537
+	Bottom right point: 979 475
+	Color: DARK_BLUE
+	Square = 992
+37. CIRCLE:
+	Center point: 468 335
+	Radius: 18
+	Color: GREEN
+	Square = 1017.88
+38. CIRCLE:
+	Center point: 752 638
+	Radius: 18
+	Color: ORANGE
+	Square = 1017.88
+39. CIRCLE:
+	Center point: 610 279
+	Radius: 18
+	Color: PURPLE
+	Square = 1017.88
+40. RECTANGLE:
+	Top left point: 756 502
+	Bottom right point: 762 320
+	Color: ORANGE
+	Square = 1092
+41. RECTANGLE:
+	Top left point: 668 364
+	Bottom right point: 724 344
+	Color: YELLOW
+	Square = 1120
+42. CIRCLE:
+	Center point: 715 398
+	Radius: 19
+	Color: GREEN
+	Square = 1134.11
+43. CIRCLE:
+	Center point: 854 742
+	Radius: 19
+	Color: BLUE
+	Square = 1134.11
+44. TRIANGLE:
+	point 1: 783 363
+	point 2: 710 60
+	point 3: 943 994
+	Color: ORANGE
+	Square = 1208.5
+45. RECTANGLE:
+	Top left point: 546 830
+	Bottom right point: 373 837
+	Color: ORANGE
+	Square = 1211
+46. CIRCLE:
+	Center point: 694 290
+	Radius: 20
+	Color: GREEN
+	Square = 1256.64
+47. TRIANGLE:
+	point 1: 169 364
+	point 2: 218 361
+	point 3: 167 418
+	Color: YELLOW
+	Square = 1320
+48. CIRCLE:
+	Center point: 763 468
+	Radius: 21
+	Color: ORANGE
+	Square = 1385.44
+49. CIRCLE:
+	Center point: 451 757
+	Radius: 21
+	Color: GREEN
+	Square = 1385.44
+50. CIRCLE:
+	Center point: 284 77
+	Radius: 22
+	Color: RED
+	Square = 1520.53
+51. CIRCLE:
+	Center point: 177 27
+	Radius: 22
+	Color: DARK_BLUE
+	Square = 1520.53
+52. CIRCLE:
+	Center point: 966 141
+	Radius: 24
+	Color: ORANGE
+	Square = 1809.56
+53. CIRCLE:
+	Center point: 607 579
+	Radius: 24
+	Color: ORANGE
+	Square = 1809.56
+54. CIRCLE:
+	Center point: 631 596
+	Radius: 24
+	Color: GREEN
+	Square = 1809.56
+55. TRIANGLE:
+	point 1: 580 171
+	point 2: 188 313
+	point 3: 561 168
+	Color: RED
+	Square = 1937
+56. CIRCLE:
+	Center point: 277 874
+	Radius: 25
+	Color: DARK_BLUE
+	Square = 1963.5
+57. RECTANGLE:
+	Top left point: 14 723
+	Bottom right point: 22 981
+	Color: ORANGE
+	Square = 2064
+58. CIRCLE:
+	Center point: 304 292
+	Radius: 26
+	Color: BLUE
+	Square = 2123.72
+59. CIRCLE:
+	Center point: 301 475
+	Radius: 26
+	Color: GREEN
+	Square = 2123.72
+60. CIRCLE:
+	Center point: 716 722
+	Radius: 27
+	Color: YELLOW
+	Square = 2290.22
+61. TRIANGLE:
+	point 1: 549 91
+	point 2: 583 228
+	point 3: 546 217
+	Color: RED
+	Square = 2347.5
+62. TRIANGLE:
+	point 1: 527 278
+	point 2: 600 615
+	point 3: 540 410
+	Color: DARK_BLUE
+	Square = 2627.5
+63. RECTANGLE:
+	Top left point: 237 962
+	Bottom right point: 442 949
+	Color: RED
+	Square = 2665
+64. RECTANGLE:
+	Top left point: 388 81
+	Bottom right point: 431 147
+	Color: GREEN
+	Square = 2838
+65. RECTANGLE:
+	Top left point: 53 585
+	Bottom right point: 412 577
+	Color: DARK_BLUE
+	Square = 2872
+66. RECTANGLE:
+	Top left point: 572 913
+	Bottom right point: 415 932
+	Color: ORANGE
+	Square = 2983
+67. CIRCLE:
+	Center point: 197 799
+	Radius: 31
+	Color: BLUE
+	Square = 3019.07
+68. CIRCLE:
+	Center point: 735 673
+	Radius: 31
+	Color: ORANGE
+	Square = 3019.07
+69. CIRCLE:
+	Center point: 457 335
+	Radius: 32
+	Color: BLUE
+	Square = 3216.99
+70. TRIANGLE:
+	point 1: 422 32
+	point 2: 556 141
+	point 3: 839 323
+	Color: DARK_BLUE
+	Square = 3229.5
+71. RECTANGLE:
+	Top left point: 646 604
+	Bottom right point: 632 837
+	Color: YELLOW
+	Square = 3262
+72. RECTANGLE:
+	Top left point: 195 793
+	Bottom right point: 157 881
+	Color: RED
+	Square = 3344
+73. CIRCLE:
+	Center point: 726 199
+	Radius: 33
+	Color: DARK_BLUE
+	Square = 3421.19
+74. CIRCLE:
+	Center point: 282 167
+	Radius: 33
+	Color: GREEN
+	Square = 3421.19
+75. RECTANGLE:
+	Top left point: 162 384
+	Bottom right point: 737 378
+	Color: RED
+	Square = 3450
+76. RECTANGLE:
+	Top left point: 759 680
+	Bottom right point: 512 666
+	Color: ORANGE
+	Square = 3458
+77. CIRCLE:
+	Center point: 868 818
+	Radius: 34
+	Color: GREEN
+	Square = 3631.68
+78. CIRCLE:
+	Center point: 93 434
+	Radius: 34
+	Color: DARK_BLUE
+	Square = 3631.68
+79. CIRCLE:
+	Center point: 353 432
+	Radius: 34
+	Color: PURPLE
+	Square = 3631.68
+80. CIRCLE:
+	Center point: 210 504
+	Radius: 34
+	Color: DARK_BLUE
+	Square = 3631.68
+81. CIRCLE:
+	Center point: 954 288
+	Radius: 34
+	Color: GREEN
+	Square = 3631.68
+82. CIRCLE:
+	Center point: 235 589
+	Radius: 35
+	Color: BLUE
+	Square = 3848.45
+83. RECTANGLE:
+	Top left point: 744 807
+	Bottom right point: 773 947
+	Color: PURPLE
+	Square = 4060
+84. CIRCLE:
+	Center point: 6 505
+	Radius: 37
+	Color: YELLOW
+	Square = 4300.84
+85. CIRCLE:
+	Center point: 90 48
+	Radius: 37
+	Color: PURPLE
+	Square = 4300.84
+86. CIRCLE:
+	Center point: 345 122
+	Radius: 38
+	Color: RED
+	Square = 4536.46
+87. TRIANGLE:
+	point 1: 426 601
+	point 2: 824 376
+	point 3: 543 558
+	Color: RED
+	Square = 4605.5
+88. CIRCLE:
+	Center point: 831 841
+	Radius: 39
+	Color: DARK_BLUE
+	Square = 4778.36
+89. CIRCLE:
+	Center point: 903 429
+	Radius: 39
+	Color: ORANGE
+	Square = 4778.36
+90. CIRCLE:
+	Center point: 127 762
+	Radius: 40
+	Color: PURPLE
+	Square = 5026.55
+91. TRIANGLE:
+	point 1: 298 532
+	point 2: 197 581
+	point 3: 964 109
+	Color: PURPLE
+	Square = 5044.5
+92. CIRCLE:
+	Center point: 860 666
+	Radius: 41
+	Color: GREEN
+	Square = 5281.02
+93. CIRCLE:
+	Center point: 69 133
+	Radius: 41
+	Color: RED
+	Square = 5281.02
+94. CIRCLE:
+	Center point: 435 307
+	Radius: 42
+	Color: BLUE
+	Square = 5541.77
+95. CIRCLE:
+	Center point: 157 584
+	Radius: 42
+	Color: GREEN
+	Square = 5541.77
+96. CIRCLE:
+	Center point: 232 969
+	Radius: 42
+	Color: RED
+	Square = 5541.77
+97. CIRCLE:
+	Center point: 876 599
+	Radius: 44
+	Color: PURPLE
+	Square = 6082.12
+98. CIRCLE:
+	Center point: 775 360
+	Radius: 44
+	Color: BLUE
+	Square = 6082.12
+99. CIRCLE:
+	Center point: 122 730
+	Radius: 44
+	Color: BLUE
+	Square = 6082.12
+100. CIRCLE:
+	Center point: 950 631
+	Radius: 44
+	Color: DARK_BLUE
+	Square = 6082.12
+101. CIRCLE:
+	Center point: 929 210
+	Radius: 44
+	Color: RED
+	Square = 6082.12
+102. CIRCLE:
+	Center point: 263 843
+	Radius: 45
+	Color: PURPLE
+	Square = 6361.73
+103. CIRCLE:
+	Center point: 249 747
+	Radius: 45
+	Color: ORANGE
+	Square = 6361.73
+104. CIRCLE:
+	Center point: 416 187
+	Radius: 45
+	Color: RED
+	Square = 6361.73
+105. CIRCLE:
+	Center point: 907 660
+	Radius: 46
+	Color: BLUE
+	Square = 6647.61
+106. TRIANGLE:
+	point 1: 704 577
+	point 2: 620 219
+	point 3: 694 376
+	Color: ORANGE
+	Square = 6652
+107. TRIANGLE:
+	point 1: 545 366
+	point 2: 315 782
+	point 3: 527 459
+	Color: YELLOW
+	Square = 6951
+108. TRIANGLE:
+	point 1: 329 375
+	point 2: 206 478
+	point 3: 544 311
+	Color: YELLOW
+	Square = 7136.5
+109. CIRCLE:
+	Center point: 987 413
+	Radius: 48
+	Color: DARK_BLUE
+	Square = 7238.23
+110. CIRCLE:
+	Center point: 661 436
+	Radius: 48
+	Color: PURPLE
+	Square = 7238.23
+111. CIRCLE:
+	Center point: 347 308
+	Radius: 49
+	Color: DARK_BLUE
+	Square = 7542.96
+112. CIRCLE:
+	Center point: 141 333
+	Radius: 50
+	Color: ORANGE
+	Square = 7853.98
+113. TRIANGLE:
+	point 1: 552 290
+	point 2: 585 281
+	point 3: 312 834
+	Color: YELLOW
+	Square = 7896
+114. RECTANGLE:
+	Top left point: 727 432
+	Bottom right point: 666 563
+	Color: PURPLE
+	Square = 7991
+115. CIRCLE:
+	Center point: 598 162
+	Radius: 51
+	Color: GREEN
+	Square = 8171.28
+116. CIRCLE:
+	Center point: 218 452
+	Radius: 51
+	Color: ORANGE
+	Square = 8171.28
+117. RECTANGLE:
+	Top left point: 806 917
+	Bottom right point: 960 863
+	Color: ORANGE
+	Square = 8316
+118. CIRCLE:
+	Center point: 221 270
+	Radius: 52
+	Color: GREEN
+	Square = 8494.87
+119. CIRCLE:
+	Center point: 396 989
+	Radius: 52
+	Color: ORANGE
+	Square = 8494.87
+120. TRIANGLE:
+	point 1: 497 296
+	point 2: 404 539
+	point 3: 188 920
+	Color: ORANGE
+	Square = 8527.5
+121. TRIANGLE:
+	point 1: 664 719
+	point 2: 509 534
+	point 3: 221 80
+	Color: PURPLE
+	Square = 8545
+122. TRIANGLE:
+	point 1: 451 618
+	point 2: 381 182
+	point 3: 528 846
+	Color: GREEN
+	Square = 8806
+123. RECTANGLE:
+	Top left point: 771 536
+	Bottom right point: 838 403
+	Color: GREEN
+	Square = 8911
+124. RECTANGLE:
+	Top left point: 803 427
+	Bottom right point: 949 489
+	Color: BLUE
+	Square = 9052
+125. CIRCLE:
+	Center point: 886 741
+	Radius: 54
+	Color: PURPLE
+	Square = 9160.88
+126. CIRCLE:
+	Center point: 101 951
+	Radius: 54
+	Color: RED
+	Square = 9160.88
+127. TRIANGLE:
+	point 1: 760 514
+	point 2: 742 581
+	point 3: 434 690
+	Color: PURPLE
+	Square = 9337
+128. CIRCLE:
+	Center point: 785 268
+	Radius: 55
+	Color: BLUE
+	Square = 9503.32
+129. CIRCLE:
+	Center point: 648 348
+	Radius: 55
+	Color: BLUE
+	Square = 9503.32
+130. CIRCLE:
+	Center point: 454 701
+	Radius: 55
+	Color: BLUE
+	Square = 9503.32
+131. TRIANGLE:
+	point 1: 333 815
+	point 2: 95 94
+	point 3: 213 371
+	Color: GREEN
+	Square = 9576
+132. TRIANGLE:
+	point 1: 78 424
+	point 2: 118 438
+	point 3: 468 79
+	Color: GREEN
+	Square = 9630
+133. CIRCLE:
+	Center point: 19 70
+	Radius: 56
+	Color: BLUE
+	Square = 9852.03
+134. TRIANGLE:
+	point 1: 740 474
+	point 2: 283 137
+	point 3: 186 110
+	Color: RED
+	Square = 10175
+135. RECTANGLE:
+	Top left point: 420 169
+	Bottom right point: 987 151
+	Color: ORANGE
+	Square = 10206
+136. CIRCLE:
+	Center point: 575 900
+	Radius: 57
+	Color: RED
+	Square = 10207
+137. CIRCLE:
+	Center point: 598 46
+	Radius: 57
+	Color: DARK_BLUE
+	Square = 10207
+138. CIRCLE:
+	Center point: 308 850
+	Radius: 57
+	Color: GREEN
+	Square = 10207
+139. TRIANGLE:
+	point 1: 681 894
+	point 2: 578 518
+	point 3: 585 327
+	Color: YELLOW
+	Square = 11152.5
+140. CIRCLE:
+	Center point: 517 624
+	Radius: 60
+	Color: GREEN
+	Square = 11309.7
+141. CIRCLE:
+	Center point: 646 429
+	Radius: 60
+	Color: DARK_BLUE
+	Square = 11309.7
+142. CIRCLE:
+	Center point: 934 787
+	Radius: 61
+	Color: BLUE
+	Square = 11689.9
+143. CIRCLE:
+	Center point: 598 184
+	Radius: 61
+	Color: YELLOW
+	Square = 11689.9
+144. CIRCLE:
+	Center point: 486 752
+	Radius: 61
+	Color: BLUE
+	Square = 11689.9
+145. CIRCLE:
+	Center point: 283 652
+	Radius: 61
+	Color: DARK_BLUE
+	Square = 11689.9
+146. TRIANGLE:
+	point 1: 724 615
+	point 2: 891 718
+	point 3: 317 223
+	Color: BLUE
+	Square = 11771.5
+147. RECTANGLE:
+	Top left point: 843 582
+	Bottom right point: 706 496
+	Color: ORANGE
+	Square = 11782
+148. RECTANGLE:
+	Top left point: 814 168
+	Bottom right point: 956 252
+	Color: YELLOW
+	Square = 11928
+149. CIRCLE:
+	Center point: 609 668
+	Radius: 62
+	Color: YELLOW
+	Square = 12076.3
+150. CIRCLE:
+	Center point: 893 599
+	Radius: 62
+	Color: ORANGE
+	Square = 12076.3
+151. RECTANGLE:
+	Top left point: 419 385
+	Bottom right point: 131 343
+	Color: GREEN
+	Square = 12096
+152. RECTANGLE:
+	Top left point: 619 923
+	Bottom right point: 445 993
+	Color: DARK_BLUE
+	Square = 12180
+153. TRIANGLE:
+	point 1: 494 355
+	point 2: 869 486
+	point 3: 547 308
+	Color: PURPLE
+	Square = 12284
+154. TRIANGLE:
+	point 1: 388 585
+	point 2: 436 734
+	point 3: 198 509
+	Color: GREEN
+	Square = 12331
+155. TRIANGLE:
+	point 1: 537 233
+	point 2: 383 495
+	point 3: 260 544
+	Color: BLUE
+	Square = 12340
+156. TRIANGLE:
+	point 1: 18 260
+	point 2: 443 866
+	point 3: 557 970
+	Color: PURPLE
+	Square = 12442
+157. CIRCLE:
+	Center point: 175 95
+	Radius: 63
+	Color: DARK_BLUE
+	Square = 12469
+158. TRIANGLE:
+	point 1: 295 110
+	point 2: 353 159
+	point 3: 358 600
+	Color: GREEN
+	Square = 12666.5
+159. TRIANGLE:
+	point 1: 553 214
+	point 2: 705 81
+	point 3: 148 738
+	Color: BLUE
+	Square = 12891.5
+160. CIRCLE:
+	Center point: 758 713
+	Radius: 65
+	Color: RED
+	Square = 13273.2
+161. CIRCLE:
+	Center point: 918 86
+	Radius: 65
+	Color: GREEN
+	Square = 13273.2
+162. TRIANGLE:
+	point 1: 563 445
+	point 2: 291 484
+	point 3: 406 369
+	Color: PURPLE
+	Square = 13397.5
+163. RECTANGLE:
+	Top left point: 973 639
+	Bottom right point: 861 519
+	Color: YELLOW
+	Square = 13440
+164. TRIANGLE:
+	point 1: 705 335
+	point 2: 585 564
+	point 3: 522 450
+	Color: PURPLE
+	Square = 14053.5
+165. CIRCLE:
+	Center point: 89 47
+	Radius: 67
+	Color: PURPLE
+	Square = 14102.6
+166. CIRCLE:
+	Center point: 407 354
+	Radius: 67
+	Color: PURPLE
+	Square = 14102.6
+167. CIRCLE:
+	Center point: 502 405
+	Radius: 67
+	Color: YELLOW
+	Square = 14102.6
+168. CIRCLE:
+	Center point: 941 817
+	Radius: 67
+	Color: YELLOW
+	Square = 14102.6
+169. CIRCLE:
+	Center point: 712 65
+	Radius: 68
+	Color: DARK_BLUE
+	Square = 14526.7
+170. CIRCLE:
+	Center point: 190 201
+	Radius: 69
+	Color: YELLOW
+	Square = 14957.1
+171. TRIANGLE:
+	point 1: 337 319
+	point 2: 685 443
+	point 3: 26 122
+	Color: RED
+	Square = 14996
+172. TRIANGLE:
+	point 1: 615 993
+	point 2: 498 999
+	point 3: 456 740
+	Color: ORANGE
+	Square = 15277.5
+173. RECTANGLE:
+	Top left point: 528 841
+	Bottom right point: 395 726
+	Color: BLUE
+	Square = 15295
+174. TRIANGLE:
+	point 1: 14 88
+	point 2: 533 157
+	point 3: 503 212
+	Color: PURPLE
+	Square = 15307.5
+175. CIRCLE:
+	Center point: 105 590
+	Radius: 70
+	Color: GREEN
+	Square = 15393.8
+176. CIRCLE:
+	Center point: 945 540
+	Radius: 70
+	Color: ORANGE
+	Square = 15393.8
+177. RECTANGLE:
+	Top left point: 426 116
+	Bottom right point: 376 427
+	Color: ORANGE
+	Square = 15550
+178. CIRCLE:
+	Center point: 359 513
+	Radius: 71
+	Color: ORANGE
+	Square = 15836.8
+179. TRIANGLE:
+	point 1: 532 466
+	point 2: 364 375
+	point 3: 26 2
+	Color: PURPLE
+	Square = 15953
+180. RECTANGLE:
+	Top left point: 2 703
+	Bottom right point: 61 427
+	Color: PURPLE
+	Square = 16284
+181. CIRCLE:
+	Center point: 226 409
+	Radius: 72
+	Color: GREEN
+	Square = 16286
+182. CIRCLE:
+	Center point: 200 188
+	Radius: 72
+	Color: ORANGE
+	Square = 16286
+183. RECTANGLE:
+	Top left point: 561 119
+	Bottom right point: 894 70
+	Color: YELLOW
+	Square = 16317
+184. RECTANGLE:
+	Top left point: 134 833
+	Bottom right point: 310 740
+	Color: GREEN
+	Square = 16368
+185. RECTANGLE:
+	Top left point: 322 55
+	Bottom right point: 747 94
+	Color: BLUE
+	Square = 16575
+186. CIRCLE:
+	Center point: 746 775
+	Radius: 73
+	Color: BLUE
+	Square = 16741.5
+187. CIRCLE:
+	Center point: 881 483
+	Radius: 73
+	Color: PURPLE
+	Square = 16741.5
+188. CIRCLE:
+	Center point: 260 432
+	Radius: 74
+	Color: BLUE
+	Square = 17203.4
+189. CIRCLE:
+	Center point: 673 6
+	Radius: 74
+	Color: YELLOW
+	Square = 17203.4
+190. RECTANGLE:
+	Top left point: 596 308
+	Bottom right point: 457 432
+	Color: ORANGE
+	Square = 17236
+191. CIRCLE:
+	Center point: 183 525
+	Radius: 75
+	Color: PURPLE
+	Square = 17671.5
+192. CIRCLE:
+	Center point: 633 77
+	Radius: 76
+	Color: GREEN
+	Square = 18145.8
+193. CIRCLE:
+	Center point: 970 508
+	Radius: 76
+	Color: RED
+	Square = 18145.8
+194. TRIANGLE:
+	point 1: 755 662
+	point 2: 434 662
+	point 3: 766 776
+	Color: RED
+	Square = 18297
+195. CIRCLE:
+	Center point: 942 230
+	Radius: 77
+	Color: DARK_BLUE
+	Square = 18626.5
+196. CIRCLE:
+	Center point: 62 613
+	Radius: 77
+	Color: BLUE
+	Square = 18626.5
+197. TRIANGLE:
+	point 1: 145 144
+	point 2: 144 219
+	point 3: 635 715
+	Color: ORANGE
+	Square = 18660.5
+198. TRIANGLE:
+	point 1: 278 82
+	point 2: 476 521
+	point 3: 480 338
+	Color: YELLOW
+	Square = 18995
+199. RECTANGLE:
+	Top left point: 184 358
+	Bottom right point: 133 731
+	Color: RED
+	Square = 19023
+200. CIRCLE:
+	Center point: 537 758
+	Radius: 78
+	Color: ORANGE
+	Square = 19113.4
+201. CIRCLE:
+	Center point: 491 604
+	Radius: 78
+	Color: YELLOW
+	Square = 19113.4
+202. TRIANGLE:
+	point 1: 50 946
+	point 2: 243 110
+	point 3: 186 555
+	Color: DARK_BLUE
+	Square = 19116.5
+203. TRIANGLE:
+	point 1: 972 400
+	point 2: 164 216
+	point 3: 326 205
+	Color: DARK_BLUE
+	Square = 19348
+204. TRIANGLE:
+	point 1: 277 810
+	point 2: 309 899
+	point 3: 688 710
+	Color: RED
+	Square = 19889.5
+205. CIRCLE:
+	Center point: 476 17
+	Radius: 80
+	Color: DARK_BLUE
+	Square = 20106.2
+206. CIRCLE:
+	Center point: 153 768
+	Radius: 80
+	Color: DARK_BLUE
+	Square = 20106.2
+207. CIRCLE:
+	Center point: 393 789
+	Radius: 80
+	Color: YELLOW
+	Square = 20106.2
+208. RECTANGLE:
+	Top left point: 435 708
+	Bottom right point: 598 834
+	Color: DARK_BLUE
+	Square = 20538
+209. CIRCLE:
+	Center point: 146 823
+	Radius: 81
+	Color: BLUE
+	Square = 20612
+210. CIRCLE:
+	Center point: 44 423
+	Radius: 81
+	Color: PURPLE
+	Square = 20612
+211. CIRCLE:
+	Center point: 886 976
+	Radius: 81
+	Color: ORANGE
+	Square = 20612
+212. CIRCLE:
+	Center point: 172 545
+	Radius: 81
+	Color: YELLOW
+	Square = 20612
+213. RECTANGLE:
+	Top left point: 568 665
+	Bottom right point: 535 33
+	Color: PURPLE
+	Square = 20856
+214. RECTANGLE:
+	Top left point: 779 297
+	Bottom right point: 904 464
+	Color: BLUE
+	Square = 20875
+215. CIRCLE:
+	Center point: 36 267
+	Radius: 82
+	Color: YELLOW
+	Square = 21124.1
+216. CIRCLE:
+	Center point: 269 89
+	Radius: 82
+	Color: ORANGE
+	Square = 21124.1
+217. TRIANGLE:
+	point 1: 670 143
+	point 2: 321 463
+	point 3: 371 296
+	Color: BLUE
+	Square = 21141.5
+218. TRIANGLE:
+	point 1: 714 429
+	point 2: 372 872
+	point 3: 449 899
+	Color: BLUE
+	Square = 21672.5
+219. TRIANGLE:
+	point 1: 679 358
+	point 2: 883 507
+	point 3: 774 213
+	Color: RED
+	Square = 21867.5
+220. CIRCLE:
+	Center point: 304 220
+	Radius: 84
+	Color: YELLOW
+	Square = 22167.1
+221. CIRCLE:
+	Center point: 765 127
+	Radius: 84
+	Color: RED
+	Square = 22167.1
+222. CIRCLE:
+	Center point: 341 971
+	Radius: 85
+	Color: RED
+	Square = 22698
+223. CIRCLE:
+	Center point: 316 41
+	Radius: 85
+	Color: RED
+	Square = 22698
+224. CIRCLE:
+	Center point: 618 439
+	Radius: 85
+	Color: GREEN
+	Square = 22698
+225. CIRCLE:
+	Center point: 771 801
+	Radius: 86
+	Color: DARK_BLUE
+	Square = 23235.2
+226. CIRCLE:
+	Center point: 615 434
+	Radius: 86
+	Color: PURPLE
+	Square = 23235.2
+227. CIRCLE:
+	Center point: 46 941
+	Radius: 86
+	Color: YELLOW
+	Square = 23235.2
+228. CIRCLE:
+	Center point: 129 601
+	Radius: 87
+	Color: RED
+	Square = 23778.7
+229. CIRCLE:
+	Center point: 866 770
+	Radius: 87
+	Color: PURPLE
+	Square = 23778.7
+230. RECTANGLE:
+	Top left point: 217 468
+	Bottom right point: 850 506
+	Color: BLUE
+	Square = 24054
+231. TRIANGLE:
+	point 1: 3 982
+	point 2: 356 677
+	point 3: 838 398
+	Color: PURPLE
+	Square = 24261.5
+232. RECTANGLE:
+	Top left point: 31 854
+	Bottom right point: 64 118
+	Color: ORANGE
+	Square = 24288
+233. CIRCLE:
+	Center point: 863 243
+	Radius: 88
+	Color: PURPLE
+	Square = 24328.5
+234. TRIANGLE:
+	point 1: 982 775
+	point 2: 642 336
+	point 3: 819 421
+	Color: RED
+	Square = 24401.5
+235. RECTANGLE:
+	Top left point: 584 641
+	Bottom right point: 658 297
+	Color: ORANGE
+	Square = 25456
+236. RECTANGLE:
+	Top left point: 255 405
+	Bottom right point: 93 245
+	Color: RED
+	Square = 25920
+237. RECTANGLE:
+	Top left point: 927 33
+	Bottom right point: 961 797
+	Color: DARK_BLUE
+	Square = 25976
+238. CIRCLE:
+	Center point: 616 949
+	Radius: 91
+	Color: RED
+	Square = 26015.5
+239. TRIANGLE:
+	point 1: 450 556
+	point 2: 674 888
+	point 3: 58 208
+	Color: ORANGE
+	Square = 26096
+240. TRIANGLE:
+	point 1: 231 334
+	point 2: 654 411
+	point 3: 487 504
+	Color: DARK_BLUE
+	Square = 26099
+241. TRIANGLE:
+	point 1: 873 617
+	point 2: 447 866
+	point 3: 630 882
+	Color: YELLOW
+	Square = 26191.5
+242. RECTANGLE:
+	Top left point: 390 553
+	Bottom right point: 818 491
+	Color: PURPLE
+	Square = 26536
+243. CIRCLE:
+	Center point: 725 14
+	Radius: 93
+	Color: RED
+	Square = 27171.6
+244. CIRCLE:
+	Center point: 351 121
+	Radius: 93
+	Color: GREEN
+	Square = 27171.6
+245. CIRCLE:
+	Center point: 293 563
+	Radius: 93
+	Color: YELLOW
+	Square = 27171.6
+246. CIRCLE:
+	Center point: 257 821
+	Radius: 93
+	Color: ORANGE
+	Square = 27171.6
+247. RECTANGLE:
+	Top left point: 253 558
+	Bottom right point: 667 491
+	Color: BLUE
+	Square = 27738
+248. CIRCLE:
+	Center point: 114 859
+	Radius: 94
+	Color: BLUE
+	Square = 27759.1
+249. TRIANGLE:
+	point 1: 383 297
+	point 2: 557 984
+	point 3: 426 791
+	Color: RED
+	Square = 28207.5
+250. RECTANGLE:
+	Top left point: 677 829
+	Bottom right point: 134 777
+	Color: YELLOW
+	Square = 28236
+251. RECTANGLE:
+	Top left point: 417 773
+	Bottom right point: 588 607
+	Color: DARK_BLUE
+	Square = 28386
+252. RECTANGLE:
+	Top left point: 77 189
+	Bottom right point: 408 277
+	Color: PURPLE
+	Square = 29128
+253. TRIANGLE:
+	point 1: 840 781
+	point 2: 95 810
+	point 3: 539 871
+	Color: ORANGE
+	Square = 29160.5
+254. TRIANGLE:
+	point 1: 422 929
+	point 2: 311 602
+	point 3: 507 650
+	Color: DARK_BLUE
+	Square = 29382
+255. RECTANGLE:
+	Top left point: 309 774
+	Bottom right point: 94 911
+	Color: DARK_BLUE
+	Square = 29455
+256. CIRCLE:
+	Center point: 111 618
+	Radius: 97
+	Color: PURPLE
+	Square = 29559.2
+257. TRIANGLE:
+	point 1: 695 89
+	point 2: 512 713
+	point 3: 639 604
+	Color: ORANGE
+	Square = 29650.5
+258. RECTANGLE:
+	Top left point: 224 491
+	Bottom right point: 150 86
+	Color: YELLOW
+	Square = 29970
+259. CIRCLE:
+	Center point: 25 621
+	Radius: 98
+	Color: RED
+	Square = 30171.9
+260. CIRCLE:
+	Center point: 622 359
+	Radius: 98
+	Color: YELLOW
+	Square = 30171.9
+261. CIRCLE:
+	Center point: 895 654
+	Radius: 98
+	Color: GREEN
+	Square = 30171.9
+262. TRIANGLE:
+	point 1: 789 399
+	point 2: 753 873
+	point 3: 876 951
+	Color: ORANGE
+	Square = 30555
+263. TRIANGLE:
+	point 1: 752 140
+	point 2: 669 314
+	point 3: 817 740
+	Color: GREEN
+	Square = 30555
+264. CIRCLE:
+	Center point: 820 435
+	Radius: 99
+	Color: PURPLE
+	Square = 30790.7
+265. CIRCLE:
+	Center point: 924 20
+	Radius: 99
+	Color: PURPLE
+	Square = 30790.7
+266. RECTANGLE:
+	Top left point: 112 795
+	Bottom right point: 72 16
+	Color: ORANGE
+	Square = 31160
+267. TRIANGLE:
+	point 1: 287 625
+	point 2: 875 809
+	point 3: 927 719
+	Color: BLUE
+	Square = 31244
+268. TRIANGLE:
+	point 1: 985 25
+	point 2: 81 403
+	point 3: 319 233
+	Color: RED
+	Square = 31858
+269. RECTANGLE:
+	Top left point: 880 755
+	Bottom right point: 93 796
+	Color: RED
+	Square = 32267
+270. TRIANGLE:
+	point 1: 379 711
+	point 2: 958 652
+	point 3: 333 604
+	Color: PURPLE
+	Square = 32333.5
+271. RECTANGLE:
+	Top left point: 799 783
+	Bottom right point: 505 673
+	Color: RED
+	Square = 32340
+272. TRIANGLE:
+	point 1: 243 899
+	point 2: 659 95
+	point 3: 335 881
+	Color: BLUE
+	Square = 33240
+273. RECTANGLE:
+	Top left point: 997 453
+	Bottom right point: 722 332
+	Color: BLUE
+	Square = 33275
+274. TRIANGLE:
+	point 1: 149 801
+	point 2: 585 574
+	point 3: 560 742
+	Color: RED
+	Square = 33786.5
+275. TRIANGLE:
+	point 1: 495 798
+	point 2: 437 517
+	point 3: 761 890
+	Color: GREEN
+	Square = 34705
+276. RECTANGLE:
+	Top left point: 565 686
+	Bottom right point: 52 618
+	Color: PURPLE
+	Square = 34884
+277. TRIANGLE:
+	point 1: 946 774
+	point 2: 309 254
+	point 3: 567 355
+	Color: BLUE
+	Square = 34911.5
+278. RECTANGLE:
+	Top left point: 166 659
+	Bottom right point: 608 580
+	Color: YELLOW
+	Square = 34918
+279. TRIANGLE:
+	point 1: 678 180
+	point 2: 527 799
+	point 3: 426 750
+	Color: GREEN
+	Square = 34959
+280. TRIANGLE:
+	point 1: 113 678
+	point 2: 242 872
+	point 3: 273 373
+	Color: ORANGE
+	Square = 35192.5
+281. RECTANGLE:
+	Top left point: 995 351
+	Bottom right point: 933 925
+	Color: YELLOW
+	Square = 35588
+282. RECTANGLE:
+	Top left point: 737 538
+	Bottom right point: 158 474
+	Color: RED
+	Square = 37056
+283. TRIANGLE:
+	point 1: 218 967
+	point 2: 915 513
+	point 3: 584 621
+	Color: RED
+	Square = 37499
+284. RECTANGLE:
+	Top left point: 216 374
+	Bottom right point: 97 692
+	Color: DARK_BLUE
+	Square = 37842
+285. RECTANGLE:
+	Top left point: 615 518
+	Bottom right point: 741 214
+	Color: BLUE
+	Square = 38304
+286. TRIANGLE:
+	point 1: 740 748
+	point 2: 483 450
+	point 3: 75 275
+	Color: DARK_BLUE
+	Square = 38304.5
+287. TRIANGLE:
+	point 1: 742 731
+	point 2: 215 675
+	point 3: 858 597
+	Color: RED
+	Square = 38557
+288. TRIANGLE:
+	point 1: 448 474
+	point 2: 394 255
+	point 3: 89 457
+	Color: ORANGE
+	Square = 38851.5
+289. TRIANGLE:
+	point 1: 535 212
+	point 2: 251 53
+	point 3: 669 13
+	Color: RED
+	Square = 38911
+290. RECTANGLE:
+	Top left point: 941 738
+	Bottom right point: 800 462
+	Color: ORANGE
+	Square = 38916
+291. RECTANGLE:
+	Top left point: 749 938
+	Bottom right point: 676 404
+	Color: ORANGE
+	Square = 38982
+292. RECTANGLE:
+	Top left point: 657 324
+	Bottom right point: 514 49
+	Color: ORANGE
+	Square = 39325
+293. TRIANGLE:
+	point 1: 799 24
+	point 2: 843 215
+	point 3: 403 147
+	Color: GREEN
+	Square = 40524
+294. TRIANGLE:
+	point 1: 449 601
+	point 2: 253 520
+	point 3: 993 410
+	Color: BLUE
+	Square = 40750
+295. TRIANGLE:
+	point 1: 214 381
+	point 2: 553 353
+	point 3: 553 598
+	Color: YELLOW
+	Square = 41527.5
+296. TRIANGLE:
+	point 1: 657 754
+	point 2: 895 110
+	point 3: 527 754
+	Color: DARK_BLUE
+	Square = 41860
+297. RECTANGLE:
+	Top left point: 629 861
+	Bottom right point: 321 998
+	Color: ORANGE
+	Square = 42196
+298. RECTANGLE:
+	Top left point: 853 793
+	Bottom right point: 644 996
+	Color: BLUE
+	Square = 42427
+299. TRIANGLE:
+	point 1: 703 285
+	point 2: 56 854
+	point 3: 358 457
+	Color: RED
+	Square = 42510.5
+300. RECTANGLE:
+	Top left point: 807 903
+	Bottom right point: 708 465
+	Color: PURPLE
+	Square = 43362
+301. TRIANGLE:
+	point 1: 259 136
+	point 2: 300 487
+	point 3: 51 505
+	Color: DARK_BLUE
+	Square = 44068.5
+302. RECTANGLE:
+	Top left point: 956 210
+	Bottom right point: 498 113
+	Color: DARK_BLUE
+	Square = 44426
+303. TRIANGLE:
+	point 1: 31 771
+	point 2: 701 214
+	point 3: 409 591
+	Color: BLUE
+	Square = 44973
+304. TRIANGLE:
+	point 1: 306 622
+	point 2: 315 826
+	point 3: 730 6
+	Color: DARK_BLUE
+	Square = 46020
+305. RECTANGLE:
+	Top left point: 17 164
+	Bottom right point: 726 99
+	Color: BLUE
+	Square = 46085
+306. RECTANGLE:
+	Top left point: 457 568
+	Bottom right point: 976 478
+	Color: RED
+	Square = 46710
+307. TRIANGLE:
+	point 1: 643 29
+	point 2: 656 336
+	point 3: 950 37
+	Color: BLUE
+	Square = 47072.5
+308. RECTANGLE:
+	Top left point: 828 540
+	Bottom right point: 202 464
+	Color: YELLOW
+	Square = 47576
+309. TRIANGLE:
+	point 1: 775 483
+	point 2: 852 190
+	point 3: 555 71
+	Color: BLUE
+	Square = 48092
+310. TRIANGLE:
+	point 1: 681 831
+	point 2: 602 610
+	point 3: 126 507
+	Color: BLUE
+	Square = 48529.5
+311. RECTANGLE:
+	Top left point: 95 458
+	Bottom right point: 289 712
+	Color: DARK_BLUE
+	Square = 49276
+312. RECTANGLE:
+	Top left point: 250 137
+	Bottom right point: 332 749
+	Color: DARK_BLUE
+	Square = 50184
+313. TRIANGLE:
+	point 1: 927 414
+	point 2: 623 422
+	point 3: 646 91
+	Color: GREEN
+	Square = 50220
+314. TRIANGLE:
+	point 1: 899 697
+	point 2: 803 818
+	point 3: 200 507
+	Color: ORANGE
+	Square = 51409.5
+315. RECTANGLE:
+	Top left point: 531 369
+	Bottom right point: 630 890
+	Color: RED
+	Square = 51579
+316. RECTANGLE:
+	Top left point: 467 387
+	Bottom right point: 130 543
+	Color: BLUE
+	Square = 52572
+317. TRIANGLE:
+	point 1: 149 404
+	point 2: 429 443
+	point 3: 499 831
+	Color: YELLOW
+	Square = 52955
+318. TRIANGLE:
+	point 1: 142 384
+	point 2: 567 660
+	point 3: 542 894
+	Color: GREEN
+	Square = 53175
+319. TRIANGLE:
+	point 1: 335 260
+	point 2: 372 552
+	point 3: 761 725
+	Color: RED
+	Square = 53593.5
+320. RECTANGLE:
+	Top left point: 411 579
+	Bottom right point: 655 358
+	Color: BLUE
+	Square = 53924
+321. RECTANGLE:
+	Top left point: 690 491
+	Bottom right point: 575 968
+	Color: ORANGE
+	Square = 54855
+322. TRIANGLE:
+	point 1: 290 666
+	point 2: 809 904
+	point 3: 230 852
+	Color: BLUE
+	Square = 55407
+323. TRIANGLE:
+	point 1: 52 631
+	point 2: 812 773
+	point 3: 559 875
+	Color: YELLOW
+	Square = 56723
+324. TRIANGLE:
+	point 1: 808 676
+	point 2: 879 314
+	point 3: 589 188
+	Color: ORANGE
+	Square = 56963
+325. RECTANGLE:
+	Top left point: 373 932
+	Bottom right point: 541 591
+	Color: YELLOW
+	Square = 57288
+326. TRIANGLE:
+	point 1: 929 608
+	point 2: 842 502
+	point 3: 18 818
+	Color: PURPLE
+	Square = 57418
+327. TRIANGLE:
+	point 1: 464 537
+	point 2: 775 530
+	point 3: 400 168
+	Color: GREEN
+	Square = 57603.5
+328. TRIANGLE:
+	point 1: 883 244
+	point 2: 520 773
+	point 3: 443 562
+	Color: RED
+	Square = 58663
+329. RECTANGLE:
+	Top left point: 666 325
+	Bottom right point: 148 211
+	Color: GREEN
+	Square = 59052
+330. TRIANGLE:
+	point 1: 936 835
+	point 2: 468 423
+	point 3: 830 487
+	Color: PURPLE
+	Square = 59596
+331. TRIANGLE:
+	point 1: 114 518
+	point 2: 274 260
+	point 3: 725 278
+	Color: DARK_BLUE
+	Square = 59619
+332. RECTANGLE:
+	Top left point: 279 840
+	Bottom right point: 551 617
+	Color: PURPLE
+	Square = 60656
+333. TRIANGLE:
+	point 1: 897 202
+	point 2: 247 356
+	point 3: 113 200
+	Color: DARK_BLUE
+	Square = 61018
+334. RECTANGLE:
+	Top left point: 320 876
+	Bottom right point: 176 447
+	Color: DARK_BLUE
+	Square = 61776
+335. RECTANGLE:
+	Top left point: 68 218
+	Bottom right point: 222 620
+	Color: GREEN
+	Square = 61908
+336. TRIANGLE:
+	point 1: 370 765
+	point 2: 560 382
+	point 3: 998 151
+	Color: ORANGE
+	Square = 61932
+337. TRIANGLE:
+	point 1: 845 404
+	point 2: 978 653
+	point 3: 297 316
+	Color: PURPLE
+	Square = 62374
+338. TRIANGLE:
+	point 1: 154 600
+	point 2: 870 595
+	point 3: 724 772
+	Color: BLUE
+	Square = 63001
+339. TRIANGLE:
+	point 1: 402 725
+	point 2: 677 720
+	point 3: 51 269
+	Color: RED
+	Square = 63577.5
+340. TRIANGLE:
+	point 1: 374 769
+	point 2: 999 14
+	point 3: 554 756
+	Color: PURPLE
+	Square = 63887.5
+341. TRIANGLE:
+	point 1: 118 446
+	point 2: 613 573
+	point 3: 719 339
+	Color: ORANGE
+	Square = 64646
+342. RECTANGLE:
+	Top left point: 691 726
+	Bottom right point: 998 937
+	Color: DARK_BLUE
+	Square = 64777
+343. TRIANGLE:
+	point 1: 624 444
+	point 2: 959 490
+	point 3: 348 797
+	Color: DARK_BLUE
+	Square = 65475.5
+344. RECTANGLE:
+	Top left point: 619 912
+	Bottom right point: 261 728
+	Color: RED
+	Square = 65872
+345. TRIANGLE:
+	point 1: 754 693
+	point 2: 819 514
+	point 3: 199 190
+	Color: GREEN
+	Square = 66020
+346. TRIANGLE:
+	point 1: 752 820
+	point 2: 232 222
+	point 3: 554 337
+	Color: GREEN
+	Square = 66378
+347. RECTANGLE:
+	Top left point: 252 911
+	Bottom right point: 415 497
+	Color: YELLOW
+	Square = 67482
+348. TRIANGLE:
+	point 1: 903 144
+	point 2: 162 377
+	point 3: 599 422
+	Color: DARK_BLUE
+	Square = 67583
+349. TRIANGLE:
+	point 1: 453 330
+	point 2: 613 673
+	point 3: 340 934
+	Color: ORANGE
+	Square = 67699.5
+350. TRIANGLE:
+	point 1: 692 762
+	point 2: 81 454
+	point 3: 745 565
+	Color: GREEN
+	Square = 68345.5
+351. RECTANGLE:
+	Top left point: 102 396
+	Bottom right point: 333 97
+	Color: YELLOW
+	Square = 69069
+352. RECTANGLE:
+	Top left point: 285 250
+	Bottom right point: 639 446
+	Color: RED
+	Square = 69384
+353. TRIANGLE:
+	point 1: 149 202
+	point 2: 359 259
+	point 3: 217 893
+	Color: YELLOW
+	Square = 70617
+354. TRIANGLE:
+	point 1: 633 106
+	point 2: 556 983
+	point 3: 470 126
+	Color: RED
+	Square = 70705.5
+355. RECTANGLE:
+	Top left point: 238 452
+	Bottom right point: 657 283
+	Color: PURPLE
+	Square = 70811
+356. TRIANGLE:
+	point 1: 464 572
+	point 2: 742 316
+	point 3: 605 956
+	Color: BLUE
+	Square = 71424
+357. TRIANGLE:
+	point 1: 861 137
+	point 2: 458 571
+	point 3: 9 691
+	Color: GREEN
+	Square = 73253
+358. TRIANGLE:
+	point 1: 431 7
+	point 2: 808 208
+	point 3: 74 221
+	Color: ORANGE
+	Square = 76217.5
+359. TRIANGLE:
+	point 1: 328 591
+	point 2: 82 140
+	point 3: 81 764
+	Color: GREEN
+	Square = 76977.5
+360. TRIANGLE:
+	point 1: 931 579
+	point 2: 615 606
+	point 3: 210 150
+	Color: YELLOW
+	Square = 77515.5
+361. TRIANGLE:
+	point 1: 996 465
+	point 2: 859 758
+	point 3: 489 377
+	Color: BLUE
+	Square = 80303.5
+362. RECTANGLE:
+	Top left point: 506 53
+	Bottom right point: 294 432
+	Color: DARK_BLUE
+	Square = 80348
+363. TRIANGLE:
+	point 1: 670 159
+	point 2: 12 529
+	point 3: 987 225
+	Color: YELLOW
+	Square = 80359
+364. TRIANGLE:
+	point 1: 197 684
+	point 2: 716 528
+	point 3: 631 243
+	Color: ORANGE
+	Square = 80587.5
+365. RECTANGLE:
+	Top left point: 466 539
+	Bottom right point: 691 180
+	Color: GREEN
+	Square = 80775
+366. TRIANGLE:
+	point 1: 533 433
+	point 2: 215 596
+	point 3: 240 70
+	Color: RED
+	Square = 81596.5
+367. RECTANGLE:
+	Top left point: 97 923
+	Bottom right point: 480 709
+	Color: DARK_BLUE
+	Square = 81962
+368. TRIANGLE:
+	point 1: 982 42
+	point 2: 338 66
+	point 3: 762 305
+	Color: RED
+	Square = 82046
+369. TRIANGLE:
+	point 1: 815 641
+	point 2: 244 996
+	point 3: 881 890
+	Color: YELLOW
+	Square = 82804.5
+370. TRIANGLE:
+	point 1: 618 79
+	point 2: 363 429
+	point 3: 973 251
+	Color: BLUE
+	Square = 84055
+371. TRIANGLE:
+	point 1: 135 862
+	point 2: 395 770
+	point 3: 644 34
+	Color: RED
+	Square = 84226
+372. TRIANGLE:
+	point 1: 836 429
+	point 2: 765 20
+	point 3: 436 521
+	Color: PURPLE
+	Square = 85066
+373. TRIANGLE:
+	point 1: 741 402
+	point 2: 600 661
+	point 3: 57 434
+	Color: DARK_BLUE
+	Square = 86322
+374. TRIANGLE:
+	point 1: 839 795
+	point 2: 42 968
+	point 3: 209 715
+	Color: PURPLE
+	Square = 86375
+375. TRIANGLE:
+	point 1: 321 309
+	point 2: 670 519
+	point 3: 741 65
+	Color: GREEN
+	Square = 86678
+376. TRIANGLE:
+	point 1: 572 149
+	point 2: 472 558
+	point 3: 74 450
+	Color: BLUE
+	Square = 86791
+377. RECTANGLE:
+	Top left point: 836 287
+	Bottom right point: 165 157
+	Color: ORANGE
+	Square = 87230
+378. TRIANGLE:
+	point 1: 295 600
+	point 2: 86 339
+	point 3: 575 113
+	Color: BLUE
+	Square = 87431.5
+379. RECTANGLE:
+	Top left point: 14 78
+	Bottom right point: 292 393
+	Color: RED
+	Square = 87570
+380. TRIANGLE:
+	point 1: 55 931
+	point 2: 457 517
+	point 3: 469 61
+	Color: PURPLE
+	Square = 89172
+381. RECTANGLE:
+	Top left point: 434 300
+	Bottom right point: 962 131
+	Color: GREEN
+	Square = 89232
+382. RECTANGLE:
+	Top left point: 190 656
+	Bottom right point: 808 805
+	Color: ORANGE
+	Square = 92082
+383. TRIANGLE:
+	point 1: 128 767
+	point 2: 517 607
+	point 3: 780 14
+	Color: BLUE
+	Square = 94298.5
+384. RECTANGLE:
+	Top left point: 181 744
+	Bottom right point: 488 431
+	Color: YELLOW
+	Square = 96091
+385. TRIANGLE:
+	point 1: 350 149
+	point 2: 816 438
+	point 3: 680 767
+	Color: PURPLE
+	Square = 96309
+386. TRIANGLE:
+	point 1: 604 795
+	point 2: 172 805
+	point 3: 384 352
+	Color: RED
+	Square = 96788
+387. TRIANGLE:
+	point 1: 876 889
+	point 2: 933 661
+	point 3: 177 266
+	Color: RED
+	Square = 97441.5
+388. RECTANGLE:
+	Top left point: 248 314
+	Bottom right point: 732 112
+	Color: BLUE
+	Square = 97768
+389. TRIANGLE:
+	point 1: 144 662
+	point 2: 862 433
+	point 3: 703 210
+	Color: ORANGE
+	Square = 98262.5
+390. TRIANGLE:
+	point 1: 559 688
+	point 2: 113 510
+	point 3: 951 402
+	Color: ORANGE
+	Square = 98666
+391. RECTANGLE:
+	Top left point: 571 89
+	Bottom right point: 420 744
+	Color: YELLOW
+	Square = 98905
+392. RECTANGLE:
+	Top left point: 122 608
+	Bottom right point: 499 874
+	Color: GREEN
+	Square = 100282
+393. RECTANGLE:
+	Top left point: 326 792
+	Bottom right point: 606 427
+	Color: PURPLE
+	Square = 102200
+394. RECTANGLE:
+	Top left point: 946 552
+	Bottom right point: 707 124
+	Color: RED
+	Square = 102292
+395. RECTANGLE:
+	Top left point: 38 192
+	Bottom right point: 894 71
+	Color: PURPLE
+	Square = 103576
+396. RECTANGLE:
+	Top left point: 409 152
+	Bottom right point: 738 468
+	Color: YELLOW
+	Square = 103964
+397. RECTANGLE:
+	Top left point: 653 83
+	Bottom right point: 115 277
+	Color: DARK_BLUE
+	Square = 104372
+398. TRIANGLE:
+	point 1: 191 546
+	point 2: 951 480
+	point 3: 737 776
+	Color: DARK_BLUE
+	Square = 105418
+399. RECTANGLE:
+	Top left point: 498 278
+	Bottom right point: 645 997
+	Color: GREEN
+	Square = 105693
+400. RECTANGLE:
+	Top left point: 701 447
+	Bottom right point: 411 820
+	Color: RED
+	Square = 108170
+401. TRIANGLE:
+	point 1: 349 150
+	point 2: 829 625
+	point 3: 239 493
+	Color: PURPLE
+	Square = 108445
+402. TRIANGLE:
+	point 1: 801 519
+	point 2: 712 945
+	point 3: 307 397
+	Color: RED
+	Square = 110651
+403. TRIANGLE:
+	point 1: 304 9
+	point 2: 92 172
+	point 3: 843 642
+	Color: GREEN
+	Square = 111026
+404. RECTANGLE:
+	Top left point: 394 667
+	Bottom right point: 196 102
+	Color: ORANGE
+	Square = 111870
+405. TRIANGLE:
+	point 1: 273 731
+	point 2: 290 321
+	point 3: 856 12
+	Color: YELLOW
+	Square = 113404
+406. TRIANGLE:
+	point 1: 966 190
+	point 2: 160 480
+	point 3: 981 470
+	Color: ORANGE
+	Square = 115015
+407. RECTANGLE:
+	Top left point: 818 677
+	Bottom right point: 186 493
+	Color: RED
+	Square = 116288
+408. RECTANGLE:
+	Top left point: 605 961
+	Bottom right point: 246 631
+	Color: DARK_BLUE
+	Square = 118470
+409. RECTANGLE:
+	Top left point: 20 548
+	Bottom right point: 490 803
+	Color: DARK_BLUE
+	Square = 119850
+410. RECTANGLE:
+	Top left point: 275 303
+	Bottom right point: 693 15
+	Color: PURPLE
+	Square = 120384
+411. RECTANGLE:
+	Top left point: 240 627
+	Bottom right point: 870 820
+	Color: PURPLE
+	Square = 121590
+412. TRIANGLE:
+	point 1: 338 254
+	point 2: 74 519
+	point 3: 761 763
+	Color: RED
+	Square = 123236
+413. TRIANGLE:
+	point 1: 638 472
+	point 2: 675 30
+	point 3: 67 581
+	Color: DARK_BLUE
+	Square = 124174
+414. RECTANGLE:
+	Top left point: 77 438
+	Bottom right point: 971 577
+	Color: RED
+	Square = 124266
+415. TRIANGLE:
+	point 1: 60 404
+	point 2: 96 938
+	point 3: 550 691
+	Color: YELLOW
+	Square = 125664
+416. RECTANGLE:
+	Top left point: 527 668
+	Bottom right point: 285 148
+	Color: GREEN
+	Square = 125840
+417. RECTANGLE:
+	Top left point: 766 663
+	Bottom right point: 333 372
+	Color: PURPLE
+	Square = 126003
+418. RECTANGLE:
+	Top left point: 457 30
+	Bottom right point: 123 408
+	Color: PURPLE
+	Square = 126252
+419. RECTANGLE:
+	Top left point: 284 265
+	Bottom right point: 98 944
+	Color: RED
+	Square = 126294
+420. RECTANGLE:
+	Top left point: 978 189
+	Bottom right point: 754 759
+	Color: PURPLE
+	Square = 127680
+421. RECTANGLE:
+	Top left point: 347 496
+	Bottom right point: 754 182
+	Color: DARK_BLUE
+	Square = 127798
+422. RECTANGLE:
+	Top left point: 343 529
+	Bottom right point: 626 73
+	Color: DARK_BLUE
+	Square = 129048
+423. TRIANGLE:
+	point 1: 535 865
+	point 2: 426 55
+	point 3: 804 440
+	Color: BLUE
+	Square = 132108
+424. TRIANGLE:
+	point 1: 262 409
+	point 2: 502 139
+	point 3: 926 767
+	Color: DARK_BLUE
+	Square = 132600
+425. TRIANGLE:
+	point 1: 725 121
+	point 2: 280 141
+	point 3: 546 726
+	Color: ORANGE
+	Square = 132822
+426. RECTANGLE:
+	Top left point: 494 804
+	Bottom right point: 310 55
+	Color: RED
+	Square = 137816
+427. TRIANGLE:
+	point 1: 638 223
+	point 2: 323 717
+	point 3: 166 84
+	Color: RED
+	Square = 138476
+428. TRIANGLE:
+	point 1: 869 87
+	point 2: 357 196
+	point 3: 89 794
+	Color: PURPLE
+	Square = 138482
+429. RECTANGLE:
+	Top left point: 26 602
+	Bottom right point: 788 784
+	Color: YELLOW
+	Square = 138684
+430. TRIANGLE:
+	point 1: 121 35
+	point 2: 882 556
+	point 3: 955 237
+	Color: RED
+	Square = 140396
+431. TRIANGLE:
+	point 1: 32 937
+	point 2: 190 204
+	point 3: 559 310
+	Color: RED
+	Square = 143612
+432. RECTANGLE:
+	Top left point: 330 260
+	Bottom right point: 635 743
+	Color: YELLOW
+	Square = 147315
+433. RECTANGLE:
+	Top left point: 541 146
+	Bottom right point: 53 449
+	Color: PURPLE
+	Square = 147864
+434. TRIANGLE:
+	point 1: 120 143
+	point 2: 645 357
+	point 3: 301 786
+	Color: YELLOW
+	Square = 149420
+435. TRIANGLE:
+	point 1: 540 309
+	point 2: 115 104
+	point 3: 360 929
+	Color: GREEN
+	Square = 150200
+436. RECTANGLE:
+	Top left point: 743 5
+	Bottom right point: 942 760
+	Color: ORANGE
+	Square = 150245
+437. RECTANGLE:
+	Top left point: 249 256
+	Bottom right point: 920 482
+	Color: BLUE
+	Square = 151646
+438. TRIANGLE:
+	point 1: 30 152
+	point 2: 560 882
+	point 3: 628 403
+	Color: DARK_BLUE
+	Square = 151755
+439. RECTANGLE:
+	Top left point: 786 568
+	Bottom right point: 306 241
+	Color: RED
+	Square = 156960
+440. RECTANGLE:
+	Top left point: 849 746
+	Bottom right point: 163 517
+	Color: RED
+	Square = 157094
+441. RECTANGLE:
+	Top left point: 627 267
+	Bottom right point: 883 889
+	Color: BLUE
+	Square = 159232
+442. RECTANGLE:
+	Top left point: 427 131
+	Bottom right point: 695 731
+	Color: BLUE
+	Square = 160800
+443. TRIANGLE:
+	point 1: 393 151
+	point 2: 801 288
+	point 3: 209 879
+	Color: BLUE
+	Square = 161116
+444. RECTANGLE:
+	Top left point: 927 247
+	Bottom right point: 679 898
+	Color: ORANGE
+	Square = 161448
+445. TRIANGLE:
+	point 1: 741 780
+	point 2: 166 450
+	point 3: 510 80
+	Color: BLUE
+	Square = 163135
+446. TRIANGLE:
+	point 1: 858 884
+	point 2: 970 373
+	point 3: 197 983
+	Color: ORANGE
+	Square = 163342
+447. TRIANGLE:
+	point 1: 149 565
+	point 2: 905 456
+	point 3: 242 119
+	Color: BLUE
+	Square = 163520
+448. RECTANGLE:
+	Top left point: 631 45
+	Bottom right point: 881 707
+	Color: GREEN
+	Square = 165500
+449. RECTANGLE:
+	Top left point: 510 382
+	Bottom right point: 23 723
+	Color: ORANGE
+	Square = 166067
+450. TRIANGLE:
+	point 1: 695 652
+	point 2: 286 129
+	point 3: 294 956
+	Color: ORANGE
+	Square = 167030
+451. TRIANGLE:
+	point 1: 696 102
+	point 2: 569 956
+	point 3: 208 726
+	Color: YELLOW
+	Square = 168752
+452. RECTANGLE:
+	Top left point: 235 893
+	Bottom right point: 432 33
+	Color: RED
+	Square = 169420
+453. TRIANGLE:
+	point 1: 52 245
+	point 2: 529 962
+	point 3: 469 157
+	Color: DARK_BLUE
+	Square = 170482
+454. TRIANGLE:
+	point 1: 118 890
+	point 2: 460 278
+	point 3: 839 603
+	Color: GREEN
+	Square = 171549
+455. RECTANGLE:
+	Top left point: 971 337
+	Bottom right point: 557 755
+	Color: DARK_BLUE
+	Square = 173052
+456. RECTANGLE:
+	Top left point: 763 973
+	Bottom right point: 562 104
+	Color: GREEN
+	Square = 174669
+457. RECTANGLE:
+	Top left point: 872 115
+	Bottom right point: 650 904
+	Color: DARK_BLUE
+	Square = 175158
+458. RECTANGLE:
+	Top left point: 364 161
+	Bottom right point: 584 965
+	Color: ORANGE
+	Square = 176880
+459. TRIANGLE:
+	point 1: 924 380
+	point 2: 221 966
+	point 3: 424 291
+	Color: ORANGE
+	Square = 177784
+460. RECTANGLE:
+	Top left point: 409 76
+	Bottom right point: 673 750
+	Color: GREEN
+	Square = 177936
+461. TRIANGLE:
+	point 1: 612 892
+	point 2: 766 300
+	point 3: 58 704
+	Color: RED
+	Square = 178460
+462. RECTANGLE:
+	Top left point: 12 968
+	Bottom right point: 434 545
+	Color: RED
+	Square = 178506
+463. RECTANGLE:
+	Top left point: 820 70
+	Bottom right point: 308 421
+	Color: ORANGE
+	Square = 179712
+464. TRIANGLE:
+	point 1: 948 960
+	point 2: 357 591
+	point 3: 853 292
+	Color: PURPLE
+	Square = 179866
+465. TRIANGLE:
+	point 1: 444 906
+	point 2: 876 447
+	point 3: 372 147
+	Color: BLUE
+	Square = 180468
+466. TRIANGLE:
+	point 1: 420 21
+	point 2: 128 685
+	point 3: 724 571
+	Color: PURPLE
+	Square = 181228
+467. TRIANGLE:
+	point 1: 520 251
+	point 2: 669 991
+	point 3: 80 588
+	Color: PURPLE
+	Square = 187906
+468. TRIANGLE:
+	point 1: 716 76
+	point 2: 990 689
+	point 3: 218 393
+	Color: DARK_BLUE
+	Square = 196066
+469. RECTANGLE:
+	Top left point: 823 309
+	Bottom right point: 467 864
+	Color: ORANGE
+	Square = 197580
+470. TRIANGLE:
+	point 1: 210 927
+	point 2: 843 380
+	point 3: 474 74
+	Color: ORANGE
+	Square = 197770
+471. TRIANGLE:
+	point 1: 75 466
+	point 2: 141 958
+	point 3: 868 220
+	Color: GREEN
+	Square = 203196
+472. RECTANGLE:
+	Top left point: 933 784
+	Bottom right point: 400 401
+	Color: ORANGE
+	Square = 204139
+473. RECTANGLE:
+	Top left point: 371 747
+	Bottom right point: 880 342
+	Color: ORANGE
+	Square = 206145
+474. RECTANGLE:
+	Top left point: 983 351
+	Bottom right point: 554 833
+	Color: PURPLE
+	Square = 206778
+475. TRIANGLE:
+	point 1: 755 132
+	point 2: 502 943
+	point 3: 53 718
+	Color: DARK_BLUE
+	Square = 210532
+476. RECTANGLE:
+	Top left point: 49 500
+	Bottom right point: 615 124
+	Color: YELLOW
+	Square = 212816
+477. RECTANGLE:
+	Top left point: 623 787
+	Bottom right point: 183 303
+	Color: GREEN
+	Square = 212960
+478. RECTANGLE:
+	Top left point: 49 949
+	Bottom right point: 594 542
+	Color: YELLOW
+	Square = 221815
+479. RECTANGLE:
+	Top left point: 310 59
+	Bottom right point: 11 826
+	Color: DARK_BLUE
+	Square = 229333
+480. TRIANGLE:
+	point 1: 894 843
+	point 2: 841 233
+	point 3: 78 163
+	Color: PURPLE
+	Square = 230860
+481. TRIANGLE:
+	point 1: 893 896
+	point 2: 29 77
+	point 3: 287 856
+	Color: PURPLE
+	Square = 230877
+482. RECTANGLE:
+	Top left point: 760 78
+	Bottom right point: 504 986
+	Color: GREEN
+	Square = 232448
+483. TRIANGLE:
+	point 1: 479 942
+	point 2: 852 269
+	point 3: 146 256
+	Color: ORANGE
+	Square = 239994
+484. TRIANGLE:
+	point 1: 797 182
+	point 2: 149 647
+	point 3: 744 993
+	Color: DARK_BLUE
+	Square = 250442
+485. RECTANGLE:
+	Top left point: 130 997
+	Bottom right point: 534 376
+	Color: DARK_BLUE
+	Square = 250884
+486. TRIANGLE:
+	point 1: 288 31
+	point 2: 978 37
+	point 3: 546 763
+	Color: ORANGE
+	Square = 251766
+487. TRIANGLE:
+	point 1: 17 487
+	point 2: 713 814
+	point 3: 878 167
+	Color: YELLOW
+	Square = 252134
+488. TRIANGLE:
+	point 1: 577 854
+	point 2: 47 391
+	point 3: 947 223
+	Color: DARK_BLUE
+	Square = 252870
+489. TRIANGLE:
+	point 1: 679 271
+	point 2: 18 47
+	point 3: 353 930
+	Color: GREEN
+	Square = 254312
+490. RECTANGLE:
+	Top left point: 425 876
+	Bottom right point: 771 131
+	Color: GREEN
+	Square = 257770
+491. RECTANGLE:
+	Top left point: 583 929
+	Bottom right point: 223 212
+	Color: YELLOW
+	Square = 258120
+492. RECTANGLE:
+	Top left point: 890 632
+	Bottom right point: 114 978
+	Color: RED
+	Square = 268496
+493. RECTANGLE:
+	Top left point: 690 750
+	Bottom right point: 252 132
+	Color: GREEN
+	Square = 270684
+494. RECTANGLE:
+	Top left point: 782 529
+	Bottom right point: 171 81
+	Color: BLUE
+	Square = 273728
+495. RECTANGLE:
+	Top left point: 753 40
+	Bottom right point: 181 520
+	Color: PURPLE
+	Square = 274560
+496. RECTANGLE:
+	Top left point: 406 93
+	Bottom right point: 895 658
+	Color: DARK_BLUE
+	Square = 276285
+497. RECTANGLE:
+	Top left point: 280 152
+	Bottom right point: 631 979
+	Color: RED
+	Square = 290277
+498. RECTANGLE:
+	Top left point: 471 952
+	Bottom right point: 893 251
+	Color: GREEN
+	Square = 295822
+499. RECTANGLE:
+	Top left point: 37 969
+	Bottom right point: 732 535
+	Color: ORANGE
+	Square = 301630
+500. RECTANGLE:
+	Top left point: 422 116
+	Bottom right point: 48 955
+	Color: GREEN
+	Square = 313786
+501. RECTANGLE:
+	Top left point: 985 812
+	Bottom right point: 207 408
+	Color: RED
+	Square = 314312
+502. RECTANGLE:
+	Top left point: 786 616
+	Bottom right point: 147 102
+	Color: BLUE
+	Square = 328446
+503. RECTANGLE:
+	Top left point: 957 195
+	Bottom right point: 207 638
+	Color: YELLOW
+	Square = 332250
+504. RECTANGLE:
+	Top left point: 235 57
+	Bottom right point: 817 635
+	Color: BLUE
+	Square = 336396
+505. RECTANGLE:
+	Top left point: 318 990
+	Bottom right point: 698 58
+	Color: YELLOW
+	Square = 354160
+506. RECTANGLE:
+	Top left point: 654 34
+	Bottom right point: 209 835
+	Color: RED
+	Square = 356445
+507. RECTANGLE:
+	Top left point: 420 92
+	Bottom right point: 884 862
+	Color: RED
+	Square = 357280
+508. RECTANGLE:
+	Top left point: 737 710
+	Bottom right point: 71 153
+	Color: GREEN
+	Square = 370962
+509. RECTANGLE:
+	Top left point: 888 741
+	Bottom right point: 159 187
+	Color: RED
+	Square = 403866
+510. RECTANGLE:
+	Top left point: 860 832
+	Bottom right point: 91 298
+	Color: PURPLE
+	Square = 410646
+511. RECTANGLE:
+	Top left point: 515 967
+	Bottom right point: 967 26
+	Color: YELLOW
+	Square = 425332
+512. RECTANGLE:
+	Top left point: 916 795
+	Bottom right point: 178 5
+	Color: PURPLE
+	Square = 583020

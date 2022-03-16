@@ -1,0 +1,18 @@
+Container is store 3 shapes:
+It is a Triangle:
+	color - BLUE
+	a = 428 701
+	b = 643 277
+	c = 482 139
+	Square = 48967.0
+It is a Rectangle:
+	color - BLUE
+	firstPoint = 7 410
+	secondPoint = 114 92
+	Square = 34026
+It is a Triangle:
+	color - BLUE
+	a = 617 821
+	b = 189 612
+	c = 15 867
+	Square = 72753.0

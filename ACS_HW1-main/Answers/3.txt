@@ -1,0 +1,7 @@
+yellow circle(x: 1, y: 4, r: 5)
+purple rectangle(x_l: 12, y_l: 10, x_r: 34, y_r: 55)
+blue triangle(x1: 10, y1: 10, x2: 20, y2: 20, x3: 30, y3: 30)
+Total amount of objects: 3
+blue triangle(x1: 10, y1: 10, x2: 20, y2: 20, x3: 30, y3: 30)
+yellow circle(x: 1, y: 4, r: 5)
+purple rectangle(x_l: 12, y_l: 10, x_r: 34, y_r: 55)

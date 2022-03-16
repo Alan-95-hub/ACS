@@ -1,0 +1,11 @@
+red circle(x: 30, y: 44, r: 18)
+red triangle(x1: 76, y1: 83, x2: 36, y2: 81, x3: 67, y3: 46)
+red circle(x: 6, y: 52, r: 6)
+blue triangle(x1: 97, y1: 10, x2: 41, y2: 79, x3: 16, y3: 60)
+green circle(x: 46, y: 43, r: 83)
+Total amount of objects: 5
+red circle(x: 6, y: 52, r: 6)
+red triangle(x1: 76, y1: 83, x2: 36, y2: 81, x3: 67, y3: 46)
+red circle(x: 30, y: 44, r: 18)
+blue triangle(x1: 97, y1: 10, x2: 41, y2: 79, x3: 16, y3: 60)
+green circle(x: 46, y: 43, r: 83)

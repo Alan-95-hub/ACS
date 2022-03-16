@@ -1,0 +1,43 @@
+add line1b
+add line1a
+add line19
+add line18
+add line17
+add line16
+add line15
+add line14
+add line13
+add line12
+add line11
+add line10
+add line9
+add line8
+add line7
+add line6
+add line5
+add line4
+add line3
+read
+read
+read
+read
+read
+read
+read
+read
+read
+read
+read
+read
+read
+read
+read
+read
+remove 0
+remove 5
+remove 2
+change string0 2
+change string1 3
+read
+read
+read

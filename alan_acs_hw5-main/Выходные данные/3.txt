@@ -1,0 +1,293 @@
+EThread #1: started...
+EThread #1: adds entry: line1a
+EThread #37: started...
+Database message: removing, out of bounds 2/1
+EThread #37: remove entry at 2
+EThread #7: started...
+EThread #7: adds entry: line14
+EThread #8: started...
+EThread #8: adds entry: line13
+EThread #9: started...
+EThread #9: adds entry: line12
+EThread #10: started...
+EThread #10: adds entry: line11
+EThread #12: started...
+EThread #12: adds entry: line9
+EThread #14: started...
+EThread #14: adds entry: line7
+EThread #15: started...
+EThread #15: adds entry: line6
+EThread #17: started...
+EThread #17: adds entry: line4
+EThread #18: started...
+EThread #18: adds entry: line3
+RThread #21: started...
+RThread #22: started...
+RThread #19: started...
+RThread #23: started...
+RThread #24: started...
+RThread #25: started...
+EThread #3: started...
+RThread #26: started...
+RThread #27: started...
+RThread #28: started...
+RThread #29: started...
+RThread #30: started...
+RThread #31: started...
+RThread #32: started...
+EThread #0: started...
+RThread #33: started...
+RThread #34: started...
+EThread #35: started...
+EThread #36: started...
+EThread #4: started...
+EThread #39: started...
+RThread #40: started...
+RThread #41: started...
+EThread #2: started...
+RThread #42: started...
+RThread #43: started...
+EThread #38: started...
+EThread #11: started...
+EThread #13: started...
+EThread #5: started...
+EThread #16: started...
+EThread #6: started...
+RThread #20: started...
+RThread #22: reads entry at 0, is: line11
+RThread #21: reads entry at 0, is: line11
+RThread #24: reads entry at 0, is: line11
+RThread #23: reads entry at 0, is: line11
+RThread #25: reads entry at 0, is: line11
+RThread #19: reads entry at 0, is: line11
+RThread #24: reads entry at 1, is: line12
+RThread #19: reads entry at 1, is: line12
+RThread #25: reads entry at 1, is: line12
+RThread #22: reads entry at 1, is: line12
+RThread #23: reads entry at 1, is: line12
+RThread #21: reads entry at 1, is: line12
+RThread #23: reads entry at 2, is: line13
+RThread #22: reads entry at 2, is: line13
+RThread #21: reads entry at 2, is: line13
+RThread #25: reads entry at 2, is: line13
+RThread #24: reads entry at 2, is: line13
+RThread #19: reads entry at 2, is: line13
+RThread #25: reads entry at 3, is: line14
+RThread #19: reads entry at 3, is: line14
+RThread #24: reads entry at 3, is: line14
+RThread #23: reads entry at 3, is: line14
+RThread #22: reads entry at 3, is: line14
+RThread #21: reads entry at 3, is: line14
+RThread #22: reads entry at 4, is: line1a
+RThread #25: reads entry at 4, is: line1a
+RThread #24: reads entry at 4, is: line1a
+RThread #19: reads entry at 4, is: line1a
+RThread #23: reads entry at 4, is: line1a
+RThread #21: reads entry at 4, is: line1a
+RThread #21: reads entry at 5, is: line3
+RThread #23: reads entry at 5, is: line3
+RThread #24: reads entry at 5, is: line3
+RThread #19: reads entry at 5, is: line3
+RThread #25: reads entry at 5, is: line3
+RThread #22: reads entry at 5, is: line3
+RThread #23: reads entry at 6, is: line4
+RThread #24: reads entry at 6, is: line4
+RThread #21: reads entry at 6, is: line4
+RThread #22: reads entry at 6, is: line4
+RThread #21: reads entry at 7, is: line6
+RThread #25: reads entry at 6, is: line4
+RThread #22: reads entry at 7, is: line6
+RThread #24: reads entry at 7, is: line6
+RThread #23: reads entry at 7, is: line6
+RThread #19: reads entry at 6, is: line4
+RThread #24: reads entry at 8, is: line7
+RThread #22: reads entry at 8, is: line7
+RThread #25: reads entry at 7, is: line6
+RThread #23: reads entry at 8, is: line7
+RThread #21: reads entry at 8, is: line7
+RThread #23: reads entry at 9, is: line9
+RThread #24: reads entry at 9, is: line9
+RThread #25: reads entry at 8, is: line7
+RThread #22: reads entry at 9, is: line9
+RThread #19: reads entry at 7, is: line6
+RThread #21: reads entry at 9, is: line9
+RThread #19: reads entry at 8, is: line7
+RThread #25: reads entry at 9, is: line9
+RThread #19: reads entry at 9, is: line9
+EThread #3: adds entry: line18
+RThread #30: reads entry at 0, is: line11
+RThread #30: reads entry at 1, is: line12
+RThread #30: reads entry at 2, is: line13
+RThread #30: reads entry at 3, is: line14
+RThread #30: reads entry at 4, is: line18
+RThread #30: reads entry at 5, is: line1a
+RThread #30: reads entry at 6, is: line3
+RThread #30: reads entry at 7, is: line4
+RThread #30: reads entry at 8, is: line6
+RThread #30: reads entry at 9, is: line7
+RThread #30: reads entry at 10, is: line9
+RThread #32: reads entry at 0, is: line11
+RThread #31: reads entry at 0, is: line11
+RThread #26: reads entry at 0, is: line11
+RThread #27: reads entry at 0, is: line11
+RThread #29: reads entry at 0, is: line11
+RThread #28: reads entry at 0, is: line11
+RThread #28: reads entry at 1, is: line12
+RThread #27: reads entry at 1, is: line12
+RThread #26: reads entry at 1, is: line12
+RThread #29: reads entry at 1, is: line12
+RThread #32: reads entry at 1, is: line12
+RThread #31: reads entry at 1, is: line12
+RThread #32: reads entry at 2, is: line13
+RThread #29: reads entry at 2, is: line13
+RThread #27: reads entry at 2, is: line13
+RThread #26: reads entry at 2, is: line13
+RThread #28: reads entry at 2, is: line13
+RThread #31: reads entry at 2, is: line13
+RThread #31: reads entry at 3, is: line14
+RThread #28: reads entry at 3, is: line14
+RThread #27: reads entry at 3, is: line14
+RThread #26: reads entry at 3, is: line14
+RThread #29: reads entry at 3, is: line14
+RThread #32: reads entry at 3, is: line14
+RThread #32: reads entry at 4, is: line18
+RThread #28: reads entry at 4, is: line18
+RThread #29: reads entry at 4, is: line18
+RThread #26: reads entry at 4, is: line18
+RThread #27: reads entry at 4, is: line18
+RThread #31: reads entry at 4, is: line18
+RThread #28: reads entry at 5, is: line1a
+RThread #29: reads entry at 5, is: line1a
+RThread #27: reads entry at 5, is: line1a
+RThread #31: reads entry at 5, is: line1a
+RThread #32: reads entry at 5, is: line1a
+RThread #26: reads entry at 5, is: line1a
+RThread #26: reads entry at 6, is: line3
+RThread #29: reads entry at 6, is: line3
+RThread #27: reads entry at 6, is: line3
+RThread #28: reads entry at 6, is: line3
+RThread #32: reads entry at 6, is: line3
+RThread #31: reads entry at 6, is: line3
+RThread #28: reads entry at 7, is: line4
+RThread #27: reads entry at 7, is: line4
+RThread #26: reads entry at 7, is: line4
+RThread #29: reads entry at 7, is: line4
+RThread #32: reads entry at 7, is: line4
+RThread #31: reads entry at 7, is: line4
+RThread #26: reads entry at 8, is: line6
+RThread #27: reads entry at 8, is: line6
+RThread #28: reads entry at 8, is: line6
+RThread #32: reads entry at 8, is: line6
+RThread #31: reads entry at 8, is: line6
+RThread #29: reads entry at 8, is: line6
+RThread #31: reads entry at 9, is: line7
+RThread #26: reads entry at 9, is: line7
+RThread #28: reads entry at 9, is: line7
+RThread #32: reads entry at 9, is: line7
+RThread #27: reads entry at 9, is: line7
+RThread #32: reads entry at 10, is: line9
+RThread #31: reads entry at 10, is: line9
+RThread #26: reads entry at 10, is: line9
+RThread #28: reads entry at 10, is: line9
+RThread #27: reads entry at 10, is: line9
+RThread #29: reads entry at 9, is: line7
+RThread #29: reads entry at 10, is: line9
+EThread #0: adds entry: line1b
+RThread #33: reads entry at 0, is: line11
+RThread #34: reads entry at 0, is: line11
+RThread #33: reads entry at 1, is: line12
+RThread #34: reads entry at 1, is: line12
+RThread #34: reads entry at 2, is: line13
+RThread #33: reads entry at 2, is: line13
+RThread #34: reads entry at 3, is: line14
+RThread #33: reads entry at 3, is: line14
+RThread #34: reads entry at 4, is: line18
+RThread #33: reads entry at 4, is: line18
+RThread #33: reads entry at 5, is: line1a
+RThread #34: reads entry at 5, is: line1a
+RThread #34: reads entry at 6, is: line1b
+RThread #33: reads entry at 6, is: line1b
+RThread #33: reads entry at 7, is: line3
+RThread #34: reads entry at 7, is: line3
+RThread #34: reads entry at 8, is: line4
+RThread #33: reads entry at 8, is: line4
+RThread #33: reads entry at 9, is: line6
+RThread #34: reads entry at 9, is: line6
+RThread #34: reads entry at 10, is: line7
+RThread #33: reads entry at 10, is: line7
+RThread #34: reads entry at 11, is: line9
+RThread #33: reads entry at 11, is: line9
+EThread #35: remove entry at 0
+EThread #36: remove entry at 5
+EThread #4: adds entry: line17
+EThread #39: change entry at 3 to: string1
+RThread #40: reads entry at 0, is: line12
+RThread #40: reads entry at 1, is: line13
+RThread #40: reads entry at 2, is: line14
+RThread #40: reads entry at 3, is: line18
+RThread #40: reads entry at 4, is: line1a
+RThread #40: reads entry at 5, is: line3
+RThread #40: reads entry at 6, is: line4
+RThread #40: reads entry at 7, is: line6
+RThread #40: reads entry at 8, is: line7
+RThread #40: reads entry at 9, is: line9
+RThread #40: reads entry at 10, is: string1
+RThread #41: reads entry at 0, is: line12
+RThread #41: reads entry at 1, is: line13
+RThread #41: reads entry at 2, is: line14
+RThread #41: reads entry at 3, is: line18
+RThread #41: reads entry at 4, is: line1a
+RThread #41: reads entry at 5, is: line3
+RThread #41: reads entry at 6, is: line4
+RThread #41: reads entry at 7, is: line6
+RThread #41: reads entry at 8, is: line7
+RThread #41: reads entry at 9, is: line9
+RThread #41: reads entry at 10, is: string1
+EThread #2: adds entry: line19
+RThread #42: reads entry at 0, is: line12
+RThread #43: reads entry at 0, is: line12
+RThread #43: reads entry at 1, is: line13
+RThread #42: reads entry at 1, is: line13
+RThread #42: reads entry at 2, is: line14
+RThread #43: reads entry at 2, is: line14
+RThread #42: reads entry at 3, is: line18
+RThread #43: reads entry at 3, is: line18
+RThread #43: reads entry at 4, is: line19
+RThread #42: reads entry at 4, is: line19
+RThread #42: reads entry at 5, is: line1a
+RThread #43: reads entry at 5, is: line1a
+RThread #42: reads entry at 6, is: line3
+RThread #43: reads entry at 6, is: line3
+RThread #42: reads entry at 7, is: line4
+RThread #43: reads entry at 7, is: line4
+RThread #42: reads entry at 8, is: line6
+RThread #43: reads entry at 8, is: line6
+RThread #43: reads entry at 9, is: line7
+RThread #42: reads entry at 9, is: line7
+RThread #42: reads entry at 10, is: line9
+RThread #43: reads entry at 10, is: line9
+RThread #42: reads entry at 11, is: string1
+RThread #43: reads entry at 11, is: string1
+EThread #38: change entry at 2 to: string0
+EThread #11: adds entry: line10
+EThread #13: adds entry: line8
+EThread #5: adds entry: line16
+EThread #16: adds entry: line5
+EThread #6: adds entry: line15
+RThread #20: reads entry at 0, is: line10
+RThread #20: reads entry at 1, is: line12
+RThread #20: reads entry at 2, is: line13
+RThread #20: reads entry at 3, is: line15
+RThread #20: reads entry at 4, is: line16
+RThread #20: reads entry at 5, is: line18
+RThread #20: reads entry at 6, is: line19
+RThread #20: reads entry at 7, is: line1a
+RThread #20: reads entry at 8, is: line3
+RThread #20: reads entry at 9, is: line4
+RThread #20: reads entry at 10, is: line5
+RThread #20: reads entry at 11, is: line6
+RThread #20: reads entry at 12, is: line7
+RThread #20: reads entry at 13, is: line8
+RThread #20: reads entry at 14, is: line9
+RThread #20: reads entry at 15, is: string0
+RThread #20: reads entry at 16, is: string1

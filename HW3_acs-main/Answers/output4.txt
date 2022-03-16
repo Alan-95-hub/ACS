@@ -1,0 +1,22 @@
+
+Container is store 4 shapes:
+It is a Triangle:
+	color - BLUE
+	a = 905 257
+	b = 990 89
+	c = 967 869
+	Square = 31218.0
+It is a Rectangle:
+	color - RED
+	firstPoint = 276 220
+	secondPoint = 400 122
+	Square = 12152
+It is a Rectangle:
+	color - PURPLE
+	firstPoint = 845 337
+	secondPoint = 850 189
+	Square = 740
+It is a Circle:
+	color - PURPLE
+	center = 271 142
+	r = 529

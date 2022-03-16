@@ -1,0 +1,13 @@
+orange rectangle(x_l: 100, y_l: 100, x_r: 200, y_r: 200)
+red rectangle(x_l: 100, y_l: 100, x_r: 200, y_r: 200)
+light blue rectangle(x_l: 100, y_l: 100, x_r: 200, y_r: 200)
+blue circle(x: 121, y: 31, r: 1001)
+green rectangle(x_l: 100, y_l: 100, x_r: 200, y_r: 200)
+yellow triangle(x1: 20, y1: 20, x2: 34, y2: 34, x3: 12, y3: 12)
+Total amount of objects: 6
+yellow triangle(x1: 20, y1: 20, x2: 34, y2: 34, x3: 12, y3: 12)
+orange rectangle(x_l: 100, y_l: 100, x_r: 200, y_r: 200)
+red rectangle(x_l: 100, y_l: 100, x_r: 200, y_r: 200)
+light blue rectangle(x_l: 100, y_l: 100, x_r: 200, y_r: 200)
+green rectangle(x_l: 100, y_l: 100, x_r: 200, y_r: 200)
+blue circle(x: 121, y: 31, r: 1001)

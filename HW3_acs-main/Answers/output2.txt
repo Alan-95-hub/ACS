@@ -1,0 +1,17 @@
+
+Container is store 3 shapes:
+It is a Circle:
+	color - YELLOW
+	center = 907 645
+	r = 781
+
+It is a Circle:
+	color - BLUE
+	center = 596 910
+	r = 254
+
+It is a Rectangle:
+	color - BLUE
+	firstPoint = 446 643
+	secondPoint = 540 404
+	Square = 22466

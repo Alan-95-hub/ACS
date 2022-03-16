@@ -1,0 +1,17 @@
+Container contains 3 elements.
+1. TRIANGLE:
+	point 1: 0 100
+	point 2: 100 0
+	point 3: 0 0
+	Color: PURPLE
+	Square = 5000
+2. RECTANGLE:
+	Top left point: 0 4
+	Bottom right point: 4 0
+	Color: GREEN
+	Square = 16
+3. CIRCLE:
+	Center point: 0 0
+	Radius: 2
+	Color: DARK_BLUE
+	Square = 12.5664

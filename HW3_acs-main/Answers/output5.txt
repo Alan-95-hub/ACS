@@ -1,0 +1,19 @@
+
+Container is store 4 shapes:
+
+It is a Rectangle:
+	color - GREEN
+	firstPoint = 591 700
+	secondPoint = 824 574
+	Square = 29358
+It is a Rectangle:
+	color - RED
+	firstPoint = 324 367
+	secondPoint = 789 16
+	Square = 163215
+It is a Triangle:
+	color - PURPLE
+	a = 150 575
+	b = 317 124
+	c = 719 698
+	Square = 138580.0

@@ -1,0 +1,11 @@
+Container contains 2 elements.
+1. TRIANGLE:
+	point 1: 0 1
+	point 2: 1 0
+	point 3: 2 2
+	Color: YELLOW
+	Square = 1.5
+2. CIRCLE:
+	Center point: 1 1
+	Color: ORANGE
+	Square = 28.2743

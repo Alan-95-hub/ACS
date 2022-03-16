@@ -1,0 +1,12 @@
+
+Container is store 2 shapes:
+It is a Triangle:
+	color - YELLOW
+	a = 451 234
+	b = 259 811
+	c = 686 101
+	Square = 55029.5
+It is a Circle:
+	color - LIGHTBLUE
+	center = 145 152
+	r = 40

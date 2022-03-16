@@ -1,0 +1,7 @@
+yellow rectangle(x_l: 19, y_l: 14, x_r: 49, y_r: 72)
+yellow circle(x: 82, y: 54, r: 68)
+yellow circle(x: 41, y: 97, r: 75)
+Total amount of objects: 3
+yellow rectangle(x_l: 19, y_l: 14, x_r: 49, y_r: 72)
+yellow circle(x: 82, y: 54, r: 68)
+yellow circle(x: 41, y: 97, r: 75)

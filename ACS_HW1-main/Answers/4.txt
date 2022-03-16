@@ -1,0 +1,7 @@
+yellow triangle(x1: 12, y1: 12, x2: 90, y2: 90, x3: 23, y3: 23)
+light blue circle(x: 1011, y: 322, r: 1212)
+orange triangle(x1: 100, y1: 100, x2: 200, y2: 200, x3: 300, y3: 300)
+Total amount of objects: 3
+yellow triangle(x1: 12, y1: 12, x2: 90, y2: 90, x3: 23, y3: 23)
+orange triangle(x1: 100, y1: 100, x2: 200, y2: 200, x3: 300, y3: 300)
+light blue circle(x: 1011, y: 322, r: 1212)
